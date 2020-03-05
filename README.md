@@ -1,3 +1,3 @@
 # my-first-repo
 
-password2
+password-FIXED
